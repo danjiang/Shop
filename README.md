@@ -2,3 +2,5 @@
 2. [Core Data 查询](http://blog.danthought.com/programming/2016/05/04/core-data-fetch/)
 3. [Core Data NSFetchedResultsController](http://blog.danthought.com/programming/2016/05/16/core-data-nsfetchedresultscontroller/)
 4. [Core Data 数据迁移](http://blog.danthought.com/programming/2017/02/06/core-data-migration/)
+5. [Core Data 性能](http://blog.danthought.com/programming/2017/02/07/core-data-performance/)
+6. [Core Data 并行](http://blog.danthought.com/programming/2017/02/08/core-data-concurrency/)
