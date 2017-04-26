@@ -29,7 +29,7 @@ class CreateCategoryViewController: UIViewController {
     let name = nameTextField.text!
     let object = PersistenceController.sharedInstance.createObject("Category")
     object.setValue(name, forKey: "name")
-    object.setValue(false, forKey: "brand")
+    object.setValue(brandSwitch.isOn, forKey: "brand")
     object.setValue(Date(), forKey: "date")
     PersistenceController.sharedInstance.save()
   }
